@@ -1,0 +1,13 @@
+############
+# General #
+############
+*.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+#######
+# NPM #
+#######
+node_modules
