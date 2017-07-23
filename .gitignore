@@ -11,3 +11,8 @@ Icon
 # NPM #
 #######
 node_modules
+
+########
+# SASS #
+########
+.sass-cache
